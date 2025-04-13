@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PersonDirectory.API.Service;
+using PersonDirectory.Core.Service;
 
 namespace PersonDirectory.API.Controllers;
 

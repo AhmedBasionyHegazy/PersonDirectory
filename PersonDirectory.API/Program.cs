@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using PersonDirectory.API.Service;
 using PersonDirectory.Core.RepositoryContract;
+using PersonDirectory.Core.Service;
 using PersonDirectory.Infrastructure.DBContext;
 using PersonDirectory.Infrastructure.Repository;
 
