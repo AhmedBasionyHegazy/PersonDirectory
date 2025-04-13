@@ -1,3 +1,18 @@
+Key Features
+1-Repository Pattern: Clean separation of data access
+
+2-Dependency Injection: Flexible service composition
+
+3-Strategy Pattern: Different data source strategies
+
+4-Async/Await: Full async pipeline
+
+5-Entity Framework Core: For SQL Server access
+
+6-Docker Support: Ready for containerization
+
+-------------Execution Plan--------------------------------------
+
 1- run this on sql server 
 
 use [PersonDirectory]
